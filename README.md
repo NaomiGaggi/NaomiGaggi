@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NaomiGaggi
 - 👀 I’m interested in noninvasive brain stimuliation, traumatic brain injury, and magnetic resonance imaging research.
-- 🌱 I’m currently learning new coding skills!
+- 🌱 I’m currently learning new coding skills and open science practices!
 - 📫 How to reach me @ ngaggi@gradcenter.cuny.edu
 - 🧠 Find my research and CV on my site: naomigaggi.wordpress.com
 
